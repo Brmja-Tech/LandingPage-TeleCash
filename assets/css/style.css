@@ -949,6 +949,9 @@ body {
 section.about {
     padding: 30px !important
 }
+.hero{
+    padding : 210px 0 50px !important ;
+    }
 
 .hero {
     padding-block: 0
